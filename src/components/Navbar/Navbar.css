@@ -1,0 +1,111 @@
+.btn{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.logoImg{
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left: 20px;
+    
+}
+.Navbar{
+    padding: 1px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: steelblue;
+}
+h2 {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.auth {
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   
+  
+    
+}
+.links{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+
+
+.slink:hover{
+    margin-top:-5px;
+}
+.slink:link{
+    text-decoration: none;
+    color:white;
+}
+.slink:visited{
+    text-decoration: none;
+    color:white;
+}
+.actlink:hover{
+    margin-top:-5px;
+}
+.actlink:link{
+    text-decoration: none;
+    color:white;
+}
+.actlink:visited{
+    text-decoration: none;
+    color:white;
+}
+.exlink:hover{
+    margin-top:-5px;
+}
+.exlink:link{
+    text-decoration: none;
+    color:white;
+}
+.exlink:visited{
+    text-decoration: none;
+    color:white;
+}
+.btnLog{
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: white;
+    border-color:white;
+    height:30px;
+    width:70px                 
+}
+.btnLog:hover{
+    margin-top: -5px;
+}
+.btnSign{
+    font-weight: bold;
+    background-color: white;
+    border-radius: 10px;
+    border-color:white;
+    height:30px;
+    width: 70px
+}
+.btnSign:hover{
+    margin-top:-5px;
+}
+.btnOut{
+    font-weight: bold;
+    background-color: white;
+    border-radius: 10px;
+    border-color:white;
+    height:30px;
+    width: 70px
+}
+.btnOut:hover{
+    margin-top:-5px;
+}

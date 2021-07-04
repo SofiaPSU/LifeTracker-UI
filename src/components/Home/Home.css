@@ -1,0 +1,63 @@
+.categories{
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+   
+}
+img{
+    border-radius: 20px;
+    height: 100px;
+}
+.fitness:hover{
+    margin-top: -5px;
+}
+h4{
+    text-align: center;
+}
+.food:hover{
+    margin-top:-5px;
+}
+.rest:hover{
+    margin-top:-5px;
+}
+.planner:hover{
+    margin-top:-5px;
+}
+.fit:link{
+    text-decoration: none;
+}
+.fit:visited{
+    text-decoration: none;
+}
+.fit {
+    color: black;
+}
+.foodlink:link{
+    text-decoration:none;
+}
+.foodlink:visited{
+    text-decoration: none;
+}
+.foodlink{
+    color:black;
+}
+.sleep:link{
+    text-decoration: none;
+}
+.sleep:visited{
+    text-decoration: none;
+}
+.sleep {
+    color: black;
+}
+.plan:link{
+    text-decoration: none;
+}
+.plan:visited{
+    text-decoration: none;
+}
+.plan {
+    color: black;
+}
